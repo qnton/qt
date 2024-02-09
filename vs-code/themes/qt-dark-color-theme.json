@@ -54,7 +54,7 @@
     "badge.background": "#BFBEEE",
     "badge.foreground": "#000",
     "button.background": "#BFBEEE",
-    "button.hoverBackground": "#FFCFA8",
+    "button.hoverBackground": "#E5E5FC",
     "button.foreground": "#000",
     "focusBorder": "#BFBEEE",
     "icon.foreground": "#A0A0A0",
@@ -74,7 +74,7 @@
     "editorBracketHighlight.unexpectedBracket.foreground": "#FF8080",
     // Links
     "textLink.foreground": "#BFBEEE",
-    "textLink.activeForeground": "#FFCFA8",
+    "textLink.activeForeground": "#E5E5FC",
     // Tooltips
     "editorHoverWidget.background": "#161616",
     "editorHoverWidget.border": "#282828",
