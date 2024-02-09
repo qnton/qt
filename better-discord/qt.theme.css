@@ -1,0 +1,68 @@
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css);
+
+:root {
+  --qt-bg-base: 16, 16, 16;
+  --qt-bg-subtle: 28, 28, 28;
+  --qt-fg-base: 255, 255, 255;
+  --qt-fg-subtle: 160, 160, 160;
+  --qt-accent: 191, 190, 238;
+  --qt-fg-err: 255, 128, 128;
+  --qt-fg-suc: 153, 255, 228;
+
+  --settingsicons: 0;
+  --font: "Geist", "gg sans", "Noto Sans";
+
+  --accentcolor: 85, 85, 85;
+  --accentcolor2: 85, 85, 85;
+  --linkcolor: 191, 190, 238;
+  --mentioncolor: 191, 190, 238;
+  --successcolor: 153, 255, 228;
+  --warningcolor: 255, 199, 153;
+  --dangercolor: 255, 128, 128;
+
+  --textbrightest: 255, 255, 255;
+  --textbrighter: 190, 190, 190;
+  --textbright: 180, 180, 180;
+  --textdark: 180, 180, 180;
+  --textdarker: 140, 140, 140;
+  --textdarkest: 126, 126, 126;
+
+  --backgroundaccent: 40, 40, 40;
+  --backgroundprimary: 16, 16, 16;
+  --backgroundsecondary: 16, 16, 16;
+  --backgroundsecondaryalt: 16, 16, 16;
+  --backgroundtertiary: 16, 16, 16;
+  --backgroundfloating: 28, 28, 28;
+}
+
+.themedBackground__6b1b6 {
+  background: transparent;
+}
+
+.channelTextArea__2e60f {
+  margin-bottom: 12px;
+}
+
+.scrollerSpacer__9cd32 {
+  height: 16px;
+}
+
+.sansAttachButton__996a4 {
+  padding-left: 0;
+}
+
+.input__848cd {
+  background: transparent;
+}
+
+.quickswitcher_a3d29a {
+  padding: 0;
+}
+
+.scroller__52ae7 {
+  margin-right: 0;
+}
+
+.protip__84833 {
+  padding-inline: 10px;
+}
