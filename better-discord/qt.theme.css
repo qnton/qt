@@ -1,13 +1,13 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css);
 
 :root {
-  --vspr-bg-base: 16, 16, 16;
-  --vspr-bg-subtle: 28, 28, 28;
-  --vspr-fg-base: 255, 255, 255;
-  --vspr-fg-subtle: 160, 160, 160;
-  --vspr-accent: 191, 190, 238;
-  --vspr-fg-err: 255, 128, 128;
-  --vspr-fg-suc: 229, 229, 252;
+  --qt-bg-base: 16, 16, 16;
+  --qt-bg-subtle: 28, 28, 28;
+  --qt-fg-base: 255, 255, 255;
+  --qt-fg-subtle: 160, 160, 160;
+  --qt-accent: 191, 190, 238;
+  --qt-fg-err: 255, 128, 128;
+  --qt-fg-suc: 229, 229, 252;
 
   --settingsicons: 0;
   --font: "Geist", "gg sans", "Noto Sans";
