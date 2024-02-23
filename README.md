@@ -8,7 +8,7 @@ Soon.
 
 ## Preview
 
-### vs-code
+### [vs-code](https://vscodethemes.com/e/qnton.qt/qt)
 ![image](https://github.com/qnton/qt-theme/assets/47970111/b4126f1b-91dc-499e-9366-71bc6ad3b75a)
 
 ### Spicetify
