@@ -5,7 +5,7 @@
   "description": "Dark theme for VSCode.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qnton/qt-theme/vs-code"
+    "url": "https://github.com/qnton/qt-theme/"
   },
   "icon": "icon.png",
   "version": "0.0.2",
