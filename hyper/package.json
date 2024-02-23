@@ -1,0 +1,17 @@
+{
+  "name": "hyper-qt",
+  "version": "0.0.1",
+  "description": "Dark theme for Hyper.",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qnton/qt-theme"
+  }
+}
