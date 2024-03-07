@@ -14,7 +14,7 @@ Soon.
 ### Spicetify
 ![image](https://github.com/qnton/qt-theme/assets/47970111/d2cb9967-dd08-41ce-8a50-cc935907d776)
 
-### Warp
+### [Warp](https://www.npmjs.com/package/hyper-qt)
 ![image](https://github.com/qnton/qt-theme/assets/47970111/35c286ac-fed6-4e7f-97b4-f4d15bc7a0e1)
 
 ### Better-Discord
