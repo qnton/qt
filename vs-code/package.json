@@ -1,14 +1,14 @@
 {
-  "name": "qt",
-  "displayName": "qt",
+  "name": "qt-vscode",
+  "displayName": "qt-vscode",
   "publisher": "qnton",
   "description": "Dark theme for VSCode.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qnton/qt-theme/"
+    "url": "https://github.com/qnton/qt/tree/master/vs-code"
   },
   "icon": "icon.png",
-  "version": "0.0.2",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -18,9 +18,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "qt",
+        "label": "qt-vscode",
         "uiTheme": "vs-dark",
         "path": "./themes/qt-dark-color-theme.json"
+      },
+      {
+        "label": "qt-vscode-nsh",
+        "uiTheme": "vs-dark",
+        "path": "./themes/qt-dark-color-theme-nsh-theme.json"
       }
     ]
   }
