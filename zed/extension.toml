@@ -1,0 +1,7 @@
+id = "qnton-qt-theme"
+name = "qt"
+version = "0.1.0"
+schema_version = 1
+authors = ["qnton"]
+description = "Dark theme for Zed matching the qt / qt-vscode palette."
+repository = "https://github.com/qnton/qt-theme"
